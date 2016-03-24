@@ -1,0 +1,56 @@
+.home-page-header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.logo {
+  margin-left: 20px;
+}
+
+.menu {
+  margin-right: 20px;
+}
+
+.home-page-intro-box {
+  width: 100%;
+  padding: 20px 0 20px 0;
+  text-align: center;
+  color: #FFF;
+  background: linear-gradient(to bottom, #21abc7 ,#616db3 );
+  margin-bottom: 2.5em;
+}
+
+.intro-header-text {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.intro-text {
+  width: 80%;
+  margin: 0 auto 15px auto;
+}
+
+.intro-button {
+  font-size: 18px;
+  padding: 10px 2.5em 10px 2.5em;
+  border-radius: 50px;
+  background-color: #ffae1c;
+  border: 1px solid #ffae1c;
+  color: #fff;
+  font-weight: 600;
+}
+
+.why-learn {
+  width: 100%;
+  height: 100px;
+  padding-left: 10px
+}
+
+.why-learn-heading {
+  margin-bottom: 10px;
+}
+
+.video {
+  width: 100%;
+}
