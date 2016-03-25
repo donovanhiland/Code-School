@@ -1,6 +1,51 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+html {
+  line-height: 1.5;
+}
 
 h1,h2,h3,h4,h5,h6,p,a, button {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
+  color: #393d40;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.section-header-text {
+  font-size: 21px;
+  margin-bottom: 15px;
+}
+
+.path-card-heading {
+  color: #167385;
+  font-size: 16px;
+}
+
+.path-card-info-text {
+  color: #393d40;
+  font-size: 14px;
+}
+
+.view-path-button {
+  color: #FFF;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.path-card-get-started {
+  color: #aebdc1;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.path-card-language {
+  color: #21abc7;
+  font-weight: 400;
+  font-size: 14px;
 }
