@@ -92,7 +92,7 @@
 .path-card {
   width: 80%
   margin: auto;
-  margin-bottom: 35px;
+  margin-bottom: 10%;
   background: #FFF;
   border-radius: 8px;
   box-shadow: 0 1px 1px rgba(0,0,0,0.3);
@@ -160,7 +160,7 @@
     margin: 35px 10px;
   }
   .video {
-    width: 40%;
+    max-width: 40%;
     position: relative;
     margin-left: 3em;
   }
@@ -169,6 +169,8 @@
     width: 50%;
   }
   .why-learn {
+    width: 40%;
+    margin: auto;
     margin-bottom: 0;
     padding-top: 20px;
     padding-bottom: 20px;
