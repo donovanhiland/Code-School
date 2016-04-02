@@ -164,17 +164,20 @@
     position: relative;
     margin-left: 3em;
   }
-  .why-learn-text-container {
-    display: inline-block;
-    width: 50%;
-  }
+
   .why-learn {
-    width: 40%;
     margin: auto;
     margin-bottom: 0;
     padding-top: 20px;
     padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
   }
+  .why-learn-text-container {
+    width: 50%;
+    margin-top: 8.5em;
+  }
+
   .why-learn-heading {
     font-size: 24px;
   }
